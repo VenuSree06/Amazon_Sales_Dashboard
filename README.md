@@ -201,13 +201,7 @@ Planned enhancements include:
 
 ---
 
-## Author
 
-**Venu**
-
-GitHub: https://github.com/VenuSree06
-
----
 
 ## Project Status
 
