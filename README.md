@@ -1,5 +1,7 @@
 # 📊 Amazon Sales Dashboard
 
+![amoazon Logo](https://images.moneycontrol.com/static-mcnews/2024/07/20240725074952_WhatsApp-Image-2024-07-25-at-12.17.26.jpeg)
+
 ## Overview
 
 The Amazon Sales Dashboard is an interactive data analytics project developed using Python and Streamlit.
