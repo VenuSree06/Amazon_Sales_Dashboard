@@ -1,4 +1,8 @@
 # 📊 Amazon Sales Dashboard
+## 🚀 Live Demo
+
+🔗 **Try the live dashboard here:**
+https://amazonsalesdashboard-ynjkarm4nzzdgj3bzn456k.streamlit.app
 
 ![amoazon Logo](https://images.moneycontrol.com/static-mcnews/2024/07/20240725074952_WhatsApp-Image-2024-07-25-at-12.17.26.jpeg)
 
